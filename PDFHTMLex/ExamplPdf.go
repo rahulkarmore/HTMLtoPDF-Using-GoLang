@@ -49,11 +49,11 @@ func main() {
 	<body>
 	
 	
-		<h1>Company Name :  MSPGCL</h1>
-		<h3>Unit Name : CENTRAL PURCHASE AGENCY (MUMBAI)</h3>
-		<h3  id="red">Kindly go through the details, In case of any problems/ issues related to the reported data email to cgmstores@mahagenco.in</h3>
+		<h1>Company Name :  next</h1>
+		<h3>Unit Name :xyz</h3>
+		<h3  id="red">Kindly go through the details, In case of any problems/ issues related to the reported data email to abc@kyapata.com</h3>
 		<br>
-		<!-- <img src="logo_mkcl_w.png" alt="Smiley face"> -->
+		
 	
 	<!-- table 1 -->
 		<table id="customers">
@@ -126,7 +126,7 @@ func main() {
 		  </tr>
 		  <tr>
 			<td> Contact Email Id</td>
-			<td>  cgmstores@mahagenco.in </td>
+			<td>  abc@kyapata.com </td>
 			
 		  </tr>
 		  <!--  -->
